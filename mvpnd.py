@@ -1,4 +1,4 @@
-import requests
+import requestsz
 import json
 import re
 import time
